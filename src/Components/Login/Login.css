@@ -1,0 +1,22 @@
+.loginDiv {
+    margin-top:100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 680px;
+    padding-right: 15px;
+    box-shadow: 1px 1px 5px rgb(23, 67, 90);
+    background-color: rgb(255, 255, 255);
+}
+
+.loginSide{
+    background-image: linear-gradient(45deg, rgb(94, 156, 187), rgb(255, 255, 255)); 
+    text-align: right;
+    color: white;
+}
+
+.loginForm {
+    color: rgb(90, 178, 205);
+    padding: 50px;
+    height: 450px;
+    text-align: left;
+}
