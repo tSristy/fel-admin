@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+    .test1{
+        display: block;
+    }
+    .test2{
+        display: none;
+    }
+}
+
+@media (min-width: 768px) {
+    .test1{
+        display: none;
+    }
+    .test2{
+        display: block;
+    }
+}
