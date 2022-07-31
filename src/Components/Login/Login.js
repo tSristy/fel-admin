@@ -50,8 +50,8 @@ const Login = () => {
                 
                     <Col xs={12} md={6} className = 'loginForm'>    
                         <Form>
-                            <img src="https://fairelectronics.com.bd/pub/media/logo/Fair-Electronics_1_.png" alt="" />
                             <br/>
+                            <img src="https://fairelectronics.com.bd/pub/media/logo/Fair-Electronics_1_.png" alt="" />
                             <br/>
                             <br></br>
                             <Form.Group className="mb-3" controlId="formBasicEmail">

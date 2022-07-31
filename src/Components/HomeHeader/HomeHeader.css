@@ -1,0 +1,42 @@
+body{
+    width: 100%;
+    border-bottom: rgb(192, 192, 192) solid 1px;
+}
+
+.logo_div{
+    /* height: 48px; */
+    /* border: blue solid 2px; */
+    /* width: 427px;
+    margin-left: 200px; */
+    padding: 21px 0 20px;
+    background-color: transparent;
+}
+
+.logo_img{
+    /* border: green solid 2px; */
+    margin-left: 100px;
+    width: 213.5px;
+    height: 26px;
+}
+
+.smart_plaza_div{
+    /*  width: 215.875px;
+    height: 73px;*/
+    padding: 18px 0 23px;
+ } 
+ 
+ .btn-smart-plaza{
+    font-weight: 700;
+    font-size: 14px;
+    height: 26px;
+    border: none;
+    background-color: white;
+    color: black;
+ }
+ 
+ .btn-smart-plaza:hover{
+    border: none;
+    background-color: white;
+    color: #142aa0;
+ }
+ 
